@@ -22,8 +22,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,aws,docker,jenkins,kubernetes,mysql,mongodb,linux,git,github,bash,vscode&theme=dark" />
 </p>
-
----
 ---
 
 ## 🌐 Connect With Me
@@ -58,9 +56,3 @@ while(alive) {
 <div align="center">
 
 ### 🚀 “Consistency Beats Motivation”
-
-<img src="https://komarev.com/ghpvc/?username=csesanket&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>

@@ -45,7 +45,6 @@ available  : Open to collabs & internships
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -72,7 +71,7 @@ available  : Open to collabs & internships
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=csesanket&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=csesanket&show_icons=true&theme=chartreusedark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csesanket&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=csesanket&theme=dark&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=FF6B6B&currStreakLabel=00ff88&sideLabels=ffffff&dates=888888" />

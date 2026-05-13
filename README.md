@@ -13,8 +13,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=csesanket&label=Profile+Views&color=00ff88&style=for-the-badge" alt="profile views" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/csesanket?label=Followers&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/csesanket)
-
 </div>
 
 ---
